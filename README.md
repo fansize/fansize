@@ -10,4 +10,4 @@ Here are some of my side projects:
 
 [Affordable House](https://apps.apple.com/us/app/id6448909397) - A mobile app that helps Shenzhen(China) residents apply for affordable housing.
 
-[Blog](http://langtang.vercel.app/)  /  [Twitter](https://twitter.com/pm_tanglang)  /  [Linktree](https://www.linkedin.com/in/tanglang) 
+[Blog](http://langtang.vercel.app/)  /  [X](https://twitter.com/pm_tanglang)  /  [Linkedin](https://www.linkedin.com/in/tanglang) 
